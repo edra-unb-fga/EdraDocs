@@ -71,13 +71,28 @@ Nosso primeiro drone pratico, e tals e tals will pfvr me ajuda nn sei o nada sob
 
 #### Visão Geral
 
-Nosso primeiro drone pratico, e tals e tals will pfvr me ajuda nn sei o nada sobre ele so sei que usava um f450 frame e tals e tals
+Drone que voou na holanda foi maior legal feito em 2019 a 2022, drone em conjunto com o Acai, drone bacaninha
+
 
 #### Recursos
 
-- Capacidade de cair
-- Capacidade de cair na gringa
-- Capacidade de voar (por menos de 2 segs)
+- Capacidade de voar (no brasil)
+- Capacidade de cair (na gringa)
+- Capacidade de voar (conferir pais)
+
+### Acai
+
+#### Visão Geral
+
+Drone que voou na holanda foi maior legal feito em 2019 a 2022, drone em conjunto com o Acai, drone bacaninha
+
+
+#### Recursos
+
+- Capacidade de voar (no brasil)
+- Capacidade de cair (na gringa)
+- Capacidade de voar (conferir pais)
+
 
 
 ---
