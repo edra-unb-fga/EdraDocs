@@ -36,12 +36,13 @@ theme:
         name: Switch to dark modo
       primary: "#0c6c0d"
       accent: "#0c6c0d"
-    - scheme: slate
+    - scheme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: "#0c6c0d"
-      accent: "#0c6c0d"
+      primary: "#5e5e62"
+      accent: "#5e5e62"
+
 
 
 extra:
