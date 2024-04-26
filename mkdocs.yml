@@ -1,11 +1,22 @@
 site_name: Edra
-site_url: https://github.com/edra-unb-fga/EdraDocs
+repo_name: "EdraDocs"
+repo_url: https://github.com/edra-unb-fga/EdraDocs
+docs_dir: docs
+
 nav:
-  - Home: 'index.md'
-  - About: 'about.md'
+  - Sobre Nos: 'index.md'
+  - Historia da Equipe: 'history.md'
+  - Competicoes: 'competitions.md'
+  - Projetos: 'projects.md'
+  - Patrocinadores: 'sponsors.md'
+  - Capacitacoes: 'capabilities.md'
   - Tello: 'tello.md'
+  - Padroes de commits: 'commits.md'
+  - Membros: 'members.md'
+
 theme:
   name: material
+  language: pt
   features:
     - navigation.tabs
     - navigation.sections
@@ -15,20 +26,23 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: en
+  logo: img/favicon.png
+  favicon: img/Realfavicon.png
+
   palette:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark modo
-      primary: teal
-      accent: purple
+      primary: "#0c6c0d"
+      accent: "#0c6c0d"
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: teal
-      accent: lime
+      primary: "#0c6c0d"
+      accent: "#0c6c0d"
+
 
 extra:
   social:
@@ -38,5 +52,9 @@ extra:
       link: https://www.linkedin.com/company/edra-unb
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/edraunb
-        
-      
+
+    
+
+
+extra_css:
+  - stylesheets/extra.css
