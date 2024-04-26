@@ -1,0 +1,42 @@
+site_name: Edra
+site_url: https://github.com/edra-unb-fga/EdraDocs
+nav:
+  - Home: 'index.md'
+  - About: 'about.md'
+  - Tello: 'tello.md'
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark modo
+      primary: teal
+      accent: purple
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: teal
+      accent: lime
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/edra-unb-fga
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/edra-unb
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/edraunb
+        
+      
