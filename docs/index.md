@@ -1,110 +1,118 @@
-# Edra, Equipe de Robótica Área da Universidade de Brasília Documentation
+# Equipe de Robótica Área
 
-## Table of Contents
+## Sumário
 
-1. [Introduction](#introduction)
-2. [Team Overview](#team-overview)
-3. [Robots](#robots)
-4. [Projects](#projects)
+1. [Introdução](#introducao)
+2. [Visão Geral da Equipe](#visao-geral-da-equipe)
+3. [Drones](#robos)
+4. [Projetos](#projetos)
 5. [Software](#software)
 6. [Hardware](#hardware)
-7. [Training and Workshops](#training-and-workshops)
-8. [Community Engagement](#community-engagement)
-9. [Contact Information](#contact-information)
+7. [Treinamento e Workshops](#treinamento-e-workshops)
+8. [Engajamento Comunitário](#engajamento-comunitario)
+9. [Informações de Contato](#informacoes-de-contato)
 
 ---
 
-## Introduction
+## Introdução 
 
-Welcome to the official documentation of Edra, Equipe de Robótica Área da Universidade de Brasília. This documentation provides an overview of our team, projects, robots, and more.
-
----
-
-## Team Overview
-
-### Mission
-
-Our mission is to...
-
-### Vision
-
-Our vision is to...
-
-### Values
-
-- Innovation
-- Collaboration
-- Excellence
+Bem-vindo à documentação oficial da Edra, a equipe de robótica aérea da Universidade de Brasília. Nesta documentação, você encontrará uma visão geral sobre a equipe, nossa história, nossos projetos, treinamentos e muito mais!
 
 ---
 
-## Robots
+## Visão Geral da Equipe
 
-### Robot A
+### Missão
 
-#### Overview
+Nossa missão é...
 
-Description of Robot A...
+### Visão
 
-#### Features
+Nossa visão é...
 
-- Feature 1
-- Feature 2
-- Feature 3
+### Valores
 
-#### Documentation
-
-[Robot A User Manual](robotA_user_manual.md)
-
-### Robot B
-
-#### Overview
-
-Description of Robot B...
-
-#### Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-#### Documentation
-
-[Robot B User Manual](robotB_user_manual.md)
+- Inovação
+- Colaboração
+- Excelência
 
 ---
 
-## Projects
+## Drones
 
-### Project X
+Nossa historia na robotica ja comecou com a robotica area, em especifico drones, sempre nos interessamos no sonho do homem de voar! A seguir apresentaremos sobre nossos projetos de maneira bem sucinta, mais detalhes dos mesmos podem ser conferidos na aba [Projetos](#projetos)
 
-#### Overview
+### Drone de 2017 teorico <mudar isso\>
 
-Description of Project X...
+#### Visão Geral
 
-#### Objectives
+Um drone totalmente teorico para a competicao tal tal de 2017  que tinha que voar la maior tempao e tal mostar os principios teoricos do voo e tal e tals...
 
-- Objective 1
-- Objective 2
+#### Recursos
 
-#### Documentation
+- Voo de tantas horas
+- Aerodinamica tals e tals
+- Visao sobre tals e tals 
 
-[Project X Documentation](projectX_documentation.md)
 
-### Project Y
+### Drone do imav la da espanha e tals
 
-#### Overview
+#### Visão Geral
 
-Description of Project Y...
+Nosso primeiro drone pratico, e tals e tals will pfvr me ajuda nn sei o nada sobre ele so sei que usava um f450 frame e tals e tals
 
-#### Objectives
+#### Recursos
 
-- Objective 1
-- Objective 2
+- Capacidade de cair
+- Capacidade de cair na gringa
+- Capacidade de voar (por menos de 2 segs)
 
-#### Documentation
+### Guarana
 
-[Project Y Documentation](projectY_documentation.md)
+#### Visão Geral
+
+Nosso primeiro drone pratico, e tals e tals will pfvr me ajuda nn sei o nada sobre ele so sei que usava um f450 frame e tals e tals
+
+#### Recursos
+
+- Capacidade de cair
+- Capacidade de cair na gringa
+- Capacidade de voar (por menos de 2 segs)
+
+
+---
+
+## Projetos
+
+### Projeto X
+
+#### Visão Geral
+
+Descrição do Projeto X...
+
+#### Objetivos
+
+- Objetivo 1
+- Objetivo 2
+
+#### Documentação
+
+[Documentação do Projeto X](documentacao_projetoX.md)
+
+### Projeto Y
+
+#### Visão Geral
+
+Descrição do Projeto Y...
+
+#### Objetivos
+
+- Objetivo 1
+- Objetivo 2
+
+#### Documentação
+
+[Documentação do Projeto Y](documentacao_projetoY.md)
 
 ---
 
@@ -112,23 +120,23 @@ Description of Project Y...
 
 ### Software A
 
-#### Overview
+#### Visão Geral
 
-Description of Software A...
+Descrição do Software A...
 
-#### Installation Guide
+#### Guia de Instalação
 
-[Software A Installation Guide](softwareA_installation_guide.md)
+[Guia de Instalação do Software A](guia_instalacao_softwareA.md)
 
 ### Software B
 
-#### Overview
+#### Visão Geral
 
-Description of Software B...
+Descrição do Software B...
 
-#### Installation Guide
+#### Guia de Instalação
 
-[Software B Installation Guide](softwareB_installation_guide.md)
+[Guia de Instalação do Software B](guia_instalacao_softwareB.md)
 
 ---
 
@@ -136,34 +144,34 @@ Description of Software B...
 
 ### Hardware A
 
-#### Overview
+#### Visão Geral
 
-Description of Hardware A...
+Descrição do Hardware A...
 
-#### Specifications
+#### Especificações
 
-- Specification 1
-- Specification 2
+- Especificação 1
+- Especificação 2
 
 ### Hardware B
 
-#### Overview
+#### Visão Geral
 
-Description of Hardware B...
+Descrição do Hardware B...
 
-#### Specifications
+#### Especificações
 
-- Specification 1
-- Specification 2
+- Especificação 1
+- Especificação 2
 
 ---
 
-## Training and Workshops
+## Treinamento e Workshops
 
-### Training Programs
+### Programas de Treinamento
 
-- Training Program 1
-- Training Program 2
+- Programa de Treinamento 1
+- Programa de Treinamento 2
 
 ### Workshops
 
@@ -172,24 +180,23 @@ Description of Hardware B...
 
 ---
 
-## Community Engagement
+## Engajamento Comunitário
 
-### Outreach Programs
+### Programas de Engajamento
 
-- Outreach Program 1
-- Outreach Program 2
+- Programa de Engajamento 1
+- Programa de Engajamento 2
 
-### Events
+### Eventos
 
-- Event 1
-- Event 2
+- Evento 1
+- Evento 2
 
 ---
 
-## Contact Information
+## Informações de Contato
 
-- Email: contact@edraunb.com.br
-- Phone: +55 XX XXXX-XXXX
-- Address: Universidade de Brasília, Campus Darcy Ribeiro, Asa Norte, Brasília - DF, Brazil
-
+- Email: contato@edraunb.com.br
+- Telefone: +55 XX XXXX-XXXX
+- Endereço: Universidade de Brasília, Campus Darcy Ribeiro, Asa Norte, Brasília - DF, Brasil
 
