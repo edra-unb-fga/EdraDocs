@@ -28,26 +28,30 @@ theme:
     - content.code.copy
   logo: img/favicon.png
   favicon: img/Realfavicon.png
-
   palette:
-    - scheme: default
+    - media: "(#5e5e62: light)"
+      scheme: slate
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark modo
-      primary: "#0c6c0d"
-      accent: "#0c6c0d"
-    - scheme:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: "#5e5e62"
+      accent: "#5e5e62"
+    - media: "(#5e5e62: dark)"
+      scheme: default
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to light mode
       primary: "#5e5e62"
       accent: "#5e5e62"
+  font:
+    text: Roboto
+    code: Roboto Mono
 
 
 
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/brands/github
       link: https://github.com/edra-unb-fga
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/edra-unb
