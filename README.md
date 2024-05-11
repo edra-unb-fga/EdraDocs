@@ -8,7 +8,7 @@
 ```bash
 pip install mkdocs-material
 mkdocs serve)
-'''
+```
 
 ## How to contribute?
 Clone the repository, make your changes, and create a pull request.
