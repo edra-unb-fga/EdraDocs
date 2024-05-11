@@ -5,8 +5,10 @@
 # Official Documentation of the Robotics Team Area (EDRA) at the University of Brasilia
 
 ## How to run?
-Run (code: `pip install mkdocs-material`)
-Run (code: `mkdocs serve`)
+```bash
+pip install mkdocs-material
+mkdocs serve)
+'''
 
 ## How to contribute?
 Clone the repository, make your changes, and create a pull request.
