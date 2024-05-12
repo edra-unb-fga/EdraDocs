@@ -6,6 +6,9 @@
 
 ## How to run?
 ```bash
+git clone https://github.com/edra-unb-fga/EdraDocs.git
+```
+```bash
 pip install mkdocs-material
 ```
 ```bash
@@ -19,7 +22,7 @@ than enter on http://127.0.0.1:8000/
 
 2. Clone the Forked Repository: Clone the forked repository to your local machine using the git clone command followed by the URL of your fork. For example:
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/edra-unb-fga/EdraDocs.git
 ```
 3. Create a New Branch: Create a new branch to work on your changes. Use a descriptive name for your branch that reflects the changes you're making. For example:
 ```bash
