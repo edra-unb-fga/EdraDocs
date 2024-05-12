@@ -1,6 +1,6 @@
 # EdraDocs
 
-[Portuguese Documentation](./Pt/ReadmePT.md)
+[Portuguese Documentation](./Pt)
 
 ## Official Documentation of the Robotics Team Area (EDRA) at the University of Brasilia
 
